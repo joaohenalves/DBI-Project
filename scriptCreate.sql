@@ -54,7 +54,7 @@ CREATE TABLE produto (
 
 CREATE TABLE nf_venda (
     nfvid SERIAL NOT NULL,
-    data_hota TIMESTAMP NOT NULL,
+    data_hora TIMESTAMP NOT NULL,
     CONSTRAINT pk_nfvid PRIMARY KEY (nfvid)
 );
 

@@ -1,24 +1,24 @@
-# 🗄️ Projeto BDI — Banco de Dados I
+# 🗄️ Database I — Academic Project
 
-Projeto acadêmico desenvolvido para a disciplina de **Banco de Dados I**, com o objetivo de aplicar na prática conceitos de modelagem e implementação de bancos de dados relacionais.
+Academic project developed for the **Database I** course, focusing on the practical application of relational database modeling and implementation concepts.
 
-## 📌 Sobre o projeto
+## 📌 About the Project
 
-O projeto envolve o levantamento de requisitos, a modelagem de um banco de dados e a elaboração de scripts SQL para sua implementação.
+The project covers requirements analysis, database modeling, and the development of SQL scripts for database implementation.
 
-## 📁 Estrutura do repositório
+## 📁 Repository Structure
 
-- **`modelos/`** — Modelos e diagramas do banco de dados.
-- **`scripts/`** — Scripts relacionados à implementação do banco de dados.
-- **`Requisitos da Aplicação.pdf`** — Documento com os requisitos da aplicação.
+- **`modelos/`** — Database models and diagrams.
+- **`scripts/`** — SQL scripts for database implementation.
+- **`Requisitos da Aplicação.pdf`** — Application requirements document.
 
-## 🛠️ Conceitos abordados
+## 🛠️ Topics Covered
 
-- Modelagem de dados
-- Modelo Entidade-Relacionamento
-- Bancos de dados relacionais
-- Linguagem SQL
+- Data Modeling
+- Entity-Relationship Model
+- Relational Databases
+- SQL
 
-## 🎓 Contexto acadêmico
+## 🎓 Academic Context
 
-Trabalho desenvolvido durante a graduação em **Ciência da Computação**, na disciplina de **Banco de Dados I**.
+Developed as part of the **Computer Science** undergraduate program, for the **Database I** course.

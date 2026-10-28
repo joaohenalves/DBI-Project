@@ -10,7 +10,7 @@ The project covers requirements analysis, database modeling, and the development
 
 - **`modelos/`** — Database models and diagrams.
 - **`scripts/`** — SQL scripts for database implementation.
-- **`Requisitos da Aplicação.pdf`** — Application requirements document.
+- **`Requisitos_da_Aplicacao.pdf`** — Application requirements document.
 
 ## 🛠️ Topics Covered
 
